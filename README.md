@@ -1,6 +1,6 @@
 # Superstore_Simple_Analysis
 
-Hello, everyone. This is my attempt to explores the Superstore sales dataset to find trends and insights related to sales performance, profitability, and behavior. The analysis uses Python with basic pandas, matplotlib, and seaborn to visualize key metrics. 
+Hello, everyone. This is my attempt to explore the Superstore sales dataset to find trends related to sales performance, profitability, and behavior. The analysis uses Python with basic pandas, matplotlib, and seaborn to visualize key metrics. Thank you for reading!
 
 ## Key Findings:
 Sales Focus: All the sales data we looked at is from the United States.
